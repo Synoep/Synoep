@@ -1,7 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<a href="https://www.vecteezy.com/video/2015336-binary-code-with-numbers-moving-downward-on-screen">
+</a>
 <h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://image.tensorartassets.com/posts/images/614748788292200483/5faae5a8-a77b-443a-bb23-bab7e927f4ee.jpg")
+<h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://image.tensorartassets.com/posts/images/614748788292200483/5faae5a8-a77b-443a-bb23-bab7e927f4ee.jpg"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synoep&label=Profile%20views&color=0e75b6&style=flat" alt="synoep" /> </p>
