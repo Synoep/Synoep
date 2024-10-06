@@ -31,6 +31,7 @@
 
 [![An image of @synoep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/synoep)](https://holopin.io/@synoep)
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synoep&show_icons=true&locale=en" alt="synoep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synoep&" alt="synoep" /></p>
