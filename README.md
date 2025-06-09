@@ -32,6 +32,8 @@
 
 <a href="https://github.com/Synoep/github-readme-activity-graph"><img alt="Shivam Tiwari's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Synoep&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+![](https://github-readme-stats.vercel.app/api?username=Synoep&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
 <picture>
