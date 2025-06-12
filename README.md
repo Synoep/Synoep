@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **synoep@gmmail.com**
+- 📫 How to reach me **synoep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
